@@ -1,7 +1,7 @@
 import json
 import sys
 
-MINIMUM_ACCURACY = 1.0
+MINIMUM_ACCURACY = 1.01
 
 print("Reading model evaluation metrics...")
 
